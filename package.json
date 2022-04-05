@@ -2,10 +2,10 @@
   "name": "ecommerce",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./src/main/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon ./src/index.js"
+    "test": "echo 'test not defined'",
+    "start": "nodemon ./src/main/index.js"
   },
   "author": "t4pusd",
   "license": "ISC",
